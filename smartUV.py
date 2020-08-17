@@ -4,7 +4,7 @@
 #   All GPIO pins will follow BCM (Broadcom) convention instead of board convention. 
 
 # Status:   in progress.
-# Last edit: Jordan Hong, 22:30 July 30, 2020 
+# Last edit: Jordan Hong, 16:00 August 17, 2020 
 
 # Dependency###################################################
 ## Modules: ultrasonic, PIR, timer classes
